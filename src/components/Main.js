@@ -9,7 +9,7 @@ function Main() {
         <h1 class="mb-4 text-3xl font-extrabold  dark:text-white md:text-5xl lg:text-7xl text-center mt-5">
           <span class="text-transparent bg-clip-text bg-gradient-to-r to-emerald-600 from-sky-400">
             KirtanMe
-          </span>{" "}
+          </span>
         </h1>
         <p className="text-center font-semibold text-gray-200 text-xl">
           You know me right, let's test!
